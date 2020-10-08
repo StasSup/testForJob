@@ -1,0 +1,13 @@
+.tableItem {
+    color: azure;
+    width: 250px;
+    text-align: center;
+}
+
+.tableLineWrapper {
+    margin-top: 0;
+    margin-left: 345px;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}

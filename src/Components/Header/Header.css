@@ -1,0 +1,22 @@
+.HeaderWrapper {
+    color: #282c34;
+    display: flex;
+    width: 60%;
+}
+
+.HeaderItemWrapper {
+    width: 250px;
+    border: solid;
+    border-width: 1px;
+    border-color: #282c34;
+}
+
+.HeaderGG {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.HeaderItem {
+    text-align: center;
+}
