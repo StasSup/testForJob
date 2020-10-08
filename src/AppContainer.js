@@ -40,6 +40,7 @@ const AppContainer = () =>{
     }
 
     const addDataTable = (data) => {
+        console.log('kek')
         setTableValue([data, ...tableValue])
     }
 
